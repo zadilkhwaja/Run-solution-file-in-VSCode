@@ -10,3 +10,4 @@ In this repository I will show how you can run a project in VSCode if you do not
   - python -m http.server
 
 # Step 3:
+- Run ./server command in the project terminal and your server will start at localhost 8000.
